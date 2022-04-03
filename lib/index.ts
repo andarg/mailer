@@ -16,3 +16,5 @@ export { MailerTransportFactory } from './interfaces/mailer-transport-factory.in
 
 /** Services **/
 export { MailerService } from './mailer.service';
+export { HandlebarsAdapter } from './adapters/handlebars.adapter';
+
